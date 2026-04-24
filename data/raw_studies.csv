@@ -1,0 +1,9 @@
+study_id,country,intervention_type,n,event_count,proportion,year,source
+Agincourt_Choice,South Africa,HIVST Choice,141,130,0.92,2020,Pettifor
+Agincourt_Clinic,South Africa,Clinic-only,146,63,0.43,2020,Pettifor
+SKILLZ_Int,Zambia,Sports-based,1134,669,0.59,2022,CIDRZ
+SKILLZ_Ctrl,Zambia,Standard-of-care,1019,377,0.37,2022,CIDRZ
+STAR_Int,Malawi,Community-led,800,677,0.846,2021,Indravudh
+STAR_Ctrl,Malawi,Standard-of-care,800,537,0.671,2021,Indravudh
+IPAD_Uganda,Uganda,Integrated Services,285,265,0.93,2025,NCT04030520
+SSA_DHS_2025,SSA (28 countries),General Population,28000,17640,0.63,2025,DHS Analysis
